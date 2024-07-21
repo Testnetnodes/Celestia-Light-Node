@@ -13,7 +13,6 @@
  ## ✅ Sistem güncellemeyle başlayalım
 ```shell
 sudo apt update && sudo apt upgrade -y
-sudo apt install curl git jq build-essential gcc unzip wget lz4 -y
 ```
 
  ## ✅ Screen yükleyelim
