@@ -41,4 +41,7 @@ docker run -e NODE_TYPE=$NODE_TYPE -e P2P_NETWORK=$NETWORK \
     celestia $NODE_TYPE start --core.ip $RPC_URL --p2p.network $NETWORK
  ```
 
+![image](https://github.com/user-attachments/assets/e576775d-87be-49f6-a050-e081486157f7)
+
+
  
